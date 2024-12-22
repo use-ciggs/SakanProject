@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sakan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3191209e44b3a6618b3cf515d97e625837db6bee")]
 [assembly: System.Reflection.AssemblyProductAttribute("sakan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sakan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
